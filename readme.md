@@ -1,4 +1,4 @@
-# Rubik's Cube Game
+# Rubik's Cube Game.
 
 This project is a simple web-based Rubik's Cube game implemented using HTML, CSS, and JavaScript. It allows users to interact with a virtual Rubik's Cube, manipulate its faces, and solve it.
 
